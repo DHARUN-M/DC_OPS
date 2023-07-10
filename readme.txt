@@ -1,4 +1,3 @@
-
 # Pet Adoption
 
 This application named Adams Pet Shop invites a user to create a account before visiting the pet shop.
